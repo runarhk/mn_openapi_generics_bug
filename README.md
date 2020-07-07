@@ -1,0 +1,1 @@
+# mn_openapi_generics_bug
